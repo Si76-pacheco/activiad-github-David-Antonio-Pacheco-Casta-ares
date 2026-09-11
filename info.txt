@@ -1,0 +1,4 @@
+Pacheco Castañares David Antonio
+10/09/26
+introducción a github
+Un Pull Request (o PR) es una solicitud que haces en plataformas de desarrollo como GitHub, GitLab o Bitbucket para que otros colaboradores revisen e integren (fusionen) los cambios que hiciste en tu código con la rama principal del proyecto (por lo general llamada main o master).
